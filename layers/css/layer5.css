@@ -1,0 +1,16 @@
+#candle1 {
+  image-rendering: pixelated;
+  position: fixed;
+  top:  480px;
+  left: 465px;
+  width: 100px;
+  z-index: 5;
+}
+#candle2 {
+  image-rendering: pixelated;
+  position: fixed;
+  top:  480px;
+  left: 735px;
+  width: 100px;
+  z-index: 5;
+}
