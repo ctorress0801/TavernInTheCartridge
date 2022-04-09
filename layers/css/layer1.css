@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+#signText{
+    position: fixed;
+    top: 80px;
+    left: 510px;
+    width:240px;
+    font-family: 'Press Start 2P';
+    color: #c48a0d;
+    font-size: 1.8em;
+    text-align: center;
+    text-shadow: 3px 3px 4px black;
+  }
+  
+  #sign {
+    image-rendering: pixelated;
+    position: fixed;
+    top:  -30px;
+    left: 465px;
+    width: 350px;
+  }
