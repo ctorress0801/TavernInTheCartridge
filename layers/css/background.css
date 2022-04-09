@@ -1,0 +1,7 @@
+html {
+  min-height: 100%;
+  background:
+      radial-gradient(transparent, black),
+      url("../sprites/Blue_bricks.png");
+      background-repeat: repeat;
+}
