@@ -1,0 +1,10 @@
+#table {
+  image-rendering: pixelated;
+  position: fixed;
+  top:  607px;
+  height: 113px;
+  width:1280px;
+  background-image: url("../sprites/table.png");
+  background-repeat: repeat;
+  background-size: contain;
+}

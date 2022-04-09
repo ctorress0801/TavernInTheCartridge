@@ -2,12 +2,13 @@
 
 #signText{
     position: fixed;
-    top: 80px;
-    left: 510px;
-    width:240px;
+    top: 65px;
+    left: 495px;
+    width:290px;
+    line-height: 180%;
     font-family: 'Press Start 2P';
     color: #c48a0d;
-    font-size: 1.8em;
+    font-size: 1.7em;
     text-align: center;
     text-shadow: 3px 3px 4px black;
   }
