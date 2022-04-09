@@ -1,6 +1,12 @@
-#beer2 {
+#beer1 {
   position: fixed;
   top: 460px;
   right: 80px;
+  width: 150px;
+}
+#beer2 {
+  position: fixed;
+  top: 460px;
+  left: 80px;
   width: 150px;
 }
